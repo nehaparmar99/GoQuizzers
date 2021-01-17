@@ -18,9 +18,8 @@ $ export FLASK_APP=app.py FLASK_DEBUG=1
 $ flask run
 
 <h2>Tech Stack Used</h2>
-<hr />
-<h3>FRONTEND is built on:</h3> HTML,CSS, JS 
-<h3>BACKEND is made using</h3> FLASK
+<h3>FRONTEND is built on: HTML,CSS, JS </h3>
+<h3>BACKEND is made using FLASK</h3>
 <br /><br />
 So what are you waiting for:exclamation::exclamation:
 <b>Hurry up!! Sign yourself up, sharpen your brains and compete with your peers!! :tada::rocket:</b>
